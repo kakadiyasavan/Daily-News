@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944982882205",
+    "project_id": "daily-news-e0447",
+    "storage_bucket": "daily-news-e0447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944982882205:android:7620778bc1432b830d6174",
+        "android_client_info": {
+          "package_name": "com.example.dailynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944982882205-eim9p7p1e4kvmul771fi20hm4db5popa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLuohlvKD7HnaKfPsJGNwDNhbKesVzqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944982882205-eim9p7p1e4kvmul771fi20hm4db5popa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
